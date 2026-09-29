@@ -9,16 +9,8 @@
 [![spaCy](https://img.shields.io/badge/spaCy-3.5+-09A3D5?logo=spacy&logoColor=white)](https://spacy.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
----
 
-## Demo
 
-<!-- Replace with your actual screenshot or GIF -->
-![Dashboard Screenshot](docs/demo.gif)
-
-> **Video walkthrough:** [Coming soon — link to demo video]
-
----
 
 ## Overview
 

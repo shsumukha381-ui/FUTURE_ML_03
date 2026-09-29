@@ -1,0 +1,72 @@
+{
+  "programming_languages": [
+    "python", "java", "javascript", "typescript", "c++", "c#", "go", "golang",
+    "rust", "ruby", "php", "swift", "kotlin", "scala", "r", "matlab", "perl",
+    "sql", "bash", "shell scripting", "powershell", "html", "css", "dart"
+  ],
+  "web_frameworks": [
+    "react", "reactjs", "react.js", "angular", "angularjs", "vue", "vuejs",
+    "vue.js", "django", "flask", "fastapi", "express", "expressjs", "node.js",
+    "nodejs", "spring", "spring boot", "rails", "ruby on rails", "next.js",
+    "nextjs", "nuxt.js", "svelte", "asp.net", "laravel"
+  ],
+  "data_science_ml": [
+    "machine learning", "deep learning", "neural networks", "natural language processing",
+    "nlp", "computer vision", "tensorflow", "pytorch", "keras", "scikit-learn",
+    "sklearn", "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly",
+    "xgboost", "lightgbm", "random forest", "logistic regression",
+    "linear regression", "decision tree", "svm", "support vector machine",
+    "clustering", "k-means", "pca", "dimensionality reduction",
+    "feature engineering", "model training", "model evaluation",
+    "hyperparameter tuning", "cross validation", "a/b testing",
+    "statistical analysis", "data analysis", "data visualization",
+    "data mining", "data wrangling", "exploratory data analysis", "eda",
+    "time series", "recommendation systems", "sentiment analysis",
+    "text classification", "named entity recognition", "ner",
+    "transformers", "bert", "gpt", "llm", "large language models",
+    "hugging face", "spacy", "nltk", "opencv", "image classification",
+    "object detection", "generative ai", "prompt engineering",
+    "reinforcement learning", "transfer learning", "fine tuning"
+  ],
+  "databases": [
+    "mysql", "postgresql", "postgres", "mongodb", "redis", "sqlite",
+    "oracle", "sql server", "cassandra", "dynamodb", "elasticsearch",
+    "neo4j", "firebase", "supabase", "couchdb", "mariadb"
+  ],
+  "cloud_devops": [
+    "aws", "amazon web services", "azure", "google cloud", "gcp",
+    "docker", "kubernetes", "k8s", "terraform", "ansible",
+    "jenkins", "github actions", "gitlab ci", "ci/cd", "cicd",
+    "linux", "unix", "nginx", "apache", "heroku", "vercel", "netlify",
+    "cloudflare", "aws lambda", "serverless", "microservices",
+    "load balancing", "auto scaling"
+  ],
+  "data_engineering": [
+    "etl", "data pipeline", "apache spark", "spark", "hadoop",
+    "airflow", "apache airflow", "kafka", "apache kafka",
+    "data warehouse", "data lake", "snowflake", "bigquery",
+    "redshift", "databricks", "dbt", "data modeling"
+  ],
+  "tools_practices": [
+    "git", "github", "gitlab", "bitbucket", "jira", "confluence",
+    "agile", "scrum", "kanban", "tdd", "test driven development",
+    "unit testing", "integration testing", "rest api", "restful",
+    "graphql", "api design", "microservices architecture",
+    "design patterns", "solid principles", "oop",
+    "object oriented programming", "functional programming",
+    "version control", "code review"
+  ],
+  "soft_skills": [
+    "communication", "teamwork", "leadership", "problem solving",
+    "critical thinking", "time management", "project management",
+    "collaboration", "presentation", "mentoring", "stakeholder management",
+    "analytical thinking", "attention to detail", "adaptability",
+    "creativity", "strategic thinking"
+  ],
+  "certifications": [
+    "aws certified", "azure certified", "google cloud certified",
+    "pmp", "scrum master", "cissp", "ceh",
+    "data science certification", "tensorflow certification",
+    "kubernetes certification", "cka", "ckad"
+  ]
+}

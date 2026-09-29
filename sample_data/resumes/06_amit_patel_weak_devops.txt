@@ -1,0 +1,25 @@
+Amit Patel
+amit.patel@email.com
+
+Summary
+DevOps Engineer with 4 years building and managing cloud infrastructure.
+
+Experience
+Senior DevOps Engineer | CloudFirst India (2021-2024)
+- Managed multi-region AWS infrastructure using Terraform and CloudFormation
+- Built CI/CD pipelines with Jenkins and GitLab CI
+- Orchestrated containerized applications using Docker and Kubernetes
+- Implemented monitoring with Prometheus and Grafana
+- Automated provisioning with Ansible
+
+Cloud Engineer | InfraStack (2019-2021)
+- Deployed applications on AWS (EC2, RDS, S3)
+- Managed Linux servers and nginx
+- Implemented load balancing and auto scaling
+
+Skills
+AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitLab CI, CI/CD, Linux, nginx, Python, bash, shell scripting, Git, monitoring, load balancing, auto scaling, microservices
+
+Education
+B.Tech. Computer Science, DTU Delhi
+AWS Certified Solutions Architect

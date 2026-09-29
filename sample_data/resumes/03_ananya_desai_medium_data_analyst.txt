@@ -1,0 +1,23 @@
+Ananya Desai
+ananya.desai@email.com
+
+Summary
+Data Analyst with 2 years of experience. Learning machine learning through online courses.
+
+Experience
+Data Analyst | InsightWorks (2022-2024)
+- Analyzed business data using Python, pandas, and SQL
+- Created dashboards and reports using Tableau and matplotlib
+- Performed basic statistical analysis on customer data
+- Collaborated with product teams to define KPIs
+
+Intern | DataStart (2021-2022)
+- Assisted with data collection and cleaning tasks
+- Built basic visualizations using Excel and Google Sheets
+
+Skills
+Python, SQL, pandas, matplotlib, Tableau, Excel, data analysis, communication, teamwork, presentation
+
+Education
+B.Sc. Statistics, Mumbai University
+Google Data Analytics Certificate (Coursera)

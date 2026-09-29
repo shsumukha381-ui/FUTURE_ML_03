@@ -1,0 +1,23 @@
+Sanjay Verma
+sanjay.verma@email.com
+
+Summary
+Full Stack Developer with 3 years building web applications using React and Node.js.
+
+Experience
+Full Stack Developer | WebCraft Technologies (2021-2024)
+- Built responsive web applications using React, TypeScript, and Next.js
+- Developed REST APIs using Node.js, Express, and MongoDB
+- Implemented CI/CD pipelines using GitHub Actions
+- Managed deployments on AWS (EC2, S3, Lambda)
+
+Junior Developer | CodeLab (2020-2021)
+- Built frontend interfaces using HTML, CSS, JavaScript
+- Worked with Vue.js for interactive components
+- Used Git for version control
+
+Skills
+JavaScript, TypeScript, React, Node.js, Express, Next.js, Vue.js, HTML, CSS, MongoDB, PostgreSQL, AWS, Docker, Git, GitHub Actions, CI/CD, REST API, agile
+
+Education
+B.Tech. Information Technology, VIT Vellore

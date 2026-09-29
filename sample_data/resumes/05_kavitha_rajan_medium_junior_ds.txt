@@ -1,0 +1,24 @@
+Kavitha Rajan
+kavitha.rajan@email.com
+
+Summary
+Junior Data Scientist with academic ML projects and internship experience.
+
+Experience
+Data Science Intern | MLWorks (2023-2024)
+- Built a sentiment analysis classifier using scikit-learn and NLTK
+- Applied machine learning models including logistic regression, random forest, and SVM
+- Performed data preprocessing and feature engineering using pandas and numpy
+- Created visualizations with matplotlib and seaborn
+
+Projects
+- Customer Churn Prediction: Built an XGBoost model achieving 89% accuracy
+- Image Classification: Used TensorFlow and Keras for CNN-based classification
+- SQL Analytics Dashboard: Created a reporting dashboard using Python and SQL
+
+Skills
+Python, scikit-learn, TensorFlow, Keras, pandas, numpy, matplotlib, seaborn, NLTK, SQL, machine learning, logistic regression, random forest, data analysis, Git, communication
+
+Education
+M.Sc. Data Science, IIIT Hyderabad (2024)
+B.Sc. Computer Science, Anna University

@@ -1,0 +1,25 @@
+Arjun Das
+arjun.das@email.com
+
+Summary
+Data Engineer with 4 years building scalable data pipelines and analytics infrastructure.
+
+Experience
+Senior Data Engineer | DataFlow Systems (2021-2024)
+- Designed ETL pipelines using Apache Spark, Apache Airflow, and Python
+- Built data warehouse solutions on Snowflake and AWS Redshift
+- Implemented real-time streaming with Apache Kafka
+- Managed data modeling and schema design for analytics teams
+- Used dbt for data transformation and quality testing
+
+Data Engineer | AnalyticsBridge (2019-2021)
+- Built data pipelines using Python and SQL
+- Managed PostgreSQL and MongoDB databases
+- Automated data quality checks and monitoring
+
+Skills
+Python, SQL, Apache Spark, Apache Airflow, Apache Kafka, Snowflake, Redshift, ETL, data pipeline, data warehouse, data modeling, dbt, PostgreSQL, MongoDB, Docker, AWS, Git, data lake, pandas, numpy
+
+Education
+M.Tech. Data Engineering, IIT Bombay
+B.Tech. Computer Science, Jadavpur University

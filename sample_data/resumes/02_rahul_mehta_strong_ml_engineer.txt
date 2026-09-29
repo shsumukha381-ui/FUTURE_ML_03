@@ -1,0 +1,26 @@
+Rahul Mehta
+rahul.mehta@email.com
+
+Summary
+Machine Learning Engineer with 4 years of experience building production ML/NLP systems.
+
+Experience
+ML Engineer | NeuralTech Solutions (2021-2024)
+- Developed natural language processing models using BERT, GPT, and transformer architectures
+- Built text classification and named entity recognition systems using spaCy and NLTK
+- Trained and fine-tuned deep learning models with PyTorch and TensorFlow
+- Deployed models using Docker and Kubernetes on Google Cloud Platform
+- Implemented feature engineering pipelines using pandas and scikit-learn
+
+Data Scientist | SmartData Labs (2019-2021)
+- Applied machine learning algorithms including random forest, SVM, and neural networks
+- Built data pipelines using Apache Spark and SQL
+- Performed statistical analysis and hypothesis testing
+- Created data visualizations using matplotlib and seaborn
+
+Skills
+Python, machine learning, deep learning, NLP, natural language processing, TensorFlow, PyTorch, scikit-learn, spaCy, NLTK, transformers, BERT, pandas, numpy, matplotlib, seaborn, Docker, Kubernetes, GCP, Google Cloud, SQL, Git, feature engineering, statistical analysis, neural networks
+
+Education
+M.Tech. AI & Machine Learning, IISc Bangalore
+B.Tech. Computer Science, BITS Pilani

@@ -1,0 +1,26 @@
+Priya Kapoor
+priya.kapoor@email.com | linkedin.com/in/priyakapoor
+
+Summary
+Senior Data Scientist with 5 years of experience specializing in machine learning, NLP, and building production ML systems. Passionate about turning data into actionable insights.
+
+Experience
+Senior Data Scientist | AI Analytics Corp (2021-2024)
+- Built and deployed machine learning models for customer segmentation using Python, scikit-learn, and XGBoost
+- Developed NLP pipelines for text classification and sentiment analysis using spaCy and Hugging Face transformers
+- Designed A/B testing frameworks and performed statistical analysis across multiple product lines
+- Created end-to-end ML pipelines using Apache Airflow and Docker on AWS
+- Mentored 3 junior data scientists and led weekly knowledge-sharing sessions
+
+Data Scientist | DataInsight (2019-2021)
+- Applied deep learning (TensorFlow, PyTorch) for time series forecasting
+- Built recommendation systems using collaborative filtering
+- Performed exploratory data analysis with pandas, numpy, and matplotlib
+- Presented findings to C-level stakeholders using Plotly dashboards
+
+Skills
+Python, R, SQL, machine learning, deep learning, NLP, natural language processing, scikit-learn, TensorFlow, PyTorch, XGBoost, pandas, numpy, matplotlib, Plotly, spaCy, Hugging Face, Apache Airflow, Docker, AWS, Git, A/B testing, statistical analysis, data visualization, communication, mentoring, leadership
+
+Education
+M.S. Computer Science, IIT Delhi
+B.Tech. Computer Science, NIT Trichy
